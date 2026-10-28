@@ -112,10 +112,7 @@ Các chương trình sử dụng những hàm cơ bản của Scilab và không 
    - `Code/`: Mã nguồn và tệp WAV được tạo trong Bài 4.
 
 ## 7. Tài liệu tham khảo
-
-- Tài liệu bài thực hành Lab 4 – Digital Signal Processing.
 - Scilab Documentation: https://help.scilab.org/
-- Tài liệu bài giảng Xử lý tín hiệu số (CO2035).
 
 ---
 
