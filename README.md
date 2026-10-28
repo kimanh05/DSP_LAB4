@@ -1,11 +1,4 @@
 # DSP Lab 4 – Digital Signal Processing
-
-**Trường Đại học Bách khoa – ĐHQG TP.HCM**  
-**Môn học:** Xử lý tín hiệu số (Digital Signal Processing)  
-**Học kỳ:** 261  
-**Nhóm:** 02  
-**Giảng viên hướng dẫn:** Phạm Công Thái
-
 ## 1. Giới thiệu
 
 Repository chứa mã nguồn Scilab, kết quả mô phỏng và hình ảnh minh họa cho Bài thực hành 4 (Lab 4) của môn Xử lý tín hiệu số.
