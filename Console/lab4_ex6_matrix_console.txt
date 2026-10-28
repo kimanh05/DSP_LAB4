@@ -1,0 +1,21 @@
+=== LAB 4 - EXERCISE 6 ===
+Method: Matrix Method
+
+  "x(n) ="
+   1.   2.  -3.   2.   1.
+  "h(n) ="
+   1.   0.  -1.
+  "Convolution matrix H ="
+   1.   0.   0.   0.   0.
+   0.   1.   0.   0.   0.
+  -1.   0.   1.   0.   0.
+   0.  -1.   0.   1.   0.
+   0.   0.  -1.   0.   1.
+   0.   0.   0.  -1.   0.
+   0.   0.   0.   0.  -1.
+  "y(n) = H*x ="
+   1.   2.  -4.   0.   4.  -2.  -1.
+Energy of x(n): 19
+Energy of y(n): 42
+Saved figure: C:\Users\kiman\Code\DSP_LAB4\Code\../Images/lab4_ex6_matrix.png
+Saved energy figure: C:\Users\kiman\Code\DSP_LAB4\Code\../Images/lab4_ex6_energy.png

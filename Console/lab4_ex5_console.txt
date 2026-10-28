@@ -1,0 +1,13 @@
+=== LAB 4 - EXERCISE 5 ===
+Image type: Grayscale
+Image size: 256 x 256 pixels
+Filter: Mean blur
+Kernel size: 9 x 9
+Original minimum: 35
+Original maximum: 245
+Blurred minimum: 14
+Blurred maximum: 230
+Original mean intensity: 103.6744
+Blurred mean intensity: 102.2011
+Mean absolute difference: 14.3959
+Saved figure: C:\Users\kiman\Code\DSP_LAB4\Code\../Images/lab4_ex5_image.png

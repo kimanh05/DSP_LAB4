@@ -1,0 +1,10 @@
+=== LAB 4 - EXERCISE 4 ===
+Sampling rate: 8000 Hz
+Bit depth: 16 bits
+Number of samples: 8000
+Duration: 1.000 seconds
+Expected tones: 440 Hz and 880 Hz
+Peak amplitude: 0.7814
+Max WAV rounding error: 0.000042
+Saved WAV: C:\Users\kiman\Code\DSP_LAB4\Code\lab4_ex4_audio.wav
+Saved figure: C:\Users\kiman\Code\DSP_LAB4\Code\../Images/lab4_ex4_audio.png

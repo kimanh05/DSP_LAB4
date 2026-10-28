@@ -1,0 +1,18 @@
+=== LAB 4 - EXERCISE 6 ===
+Method: Folding and Shifting
+
+  "n_x ="
+   0.   1.   2.   3.   4.
+  "x(n) ="
+   1.   2.  -3.   2.   1.
+  "n_h ="
+   0.   1.   2.
+  "h(n) ="
+   1.   0.  -1.
+  "n_y ="
+   0.   1.   2.   3.   4.   5.   6.
+  "y(n) ="
+   1.   2.  -4.   0.   4.  -2.  -1.
+Energy of x(n): 19
+Energy of y(n): 42
+Saved figure: C:\Users\kiman\Code\DSP_LAB4\Code\../Images/lab4_ex6_folding.png
